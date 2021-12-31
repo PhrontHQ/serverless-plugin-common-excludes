@@ -43,7 +43,7 @@ module.exports = class CommonExcludes {
       '!*.md',
       '!*.apib',
       '!.vscode/**',
-      '!package-lock.json',
+      // '!package-lock.json',
       '!.npm-upgrade.json',
       '!sonar-project.properties',
       '!sonar-coverage.info',
